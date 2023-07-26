@@ -1,0 +1,14 @@
+Create a flight reservation system
+
+1. Create two array for source cities and destination cities. Add few cities in both the array.( Source and destination cities will be same)
+
+2. Now ask user to select source for travel and display in console the available cities.
+After customer select source city then show the destination citis for travel. (Condition is if customer select any city in source then he can't see that city in destination list.)
+
+3. After successful selection show the available flights for the route.(assuming each route have 3 flights in option). 
+Show all the details of each flight ( details are- flight number, company name, departure time, arrival time, total time taken and fare)
+
+4. Customer can choose any flight by entering 1or 2 or 3 for each flights respectively. 
+
+5. After that ,generate e-ticket with all the flight details mentioned in pdf format
+( Let's take customer name as your name. It can be hard coded In ticket)
